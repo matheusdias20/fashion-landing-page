@@ -377,23 +377,38 @@ main {
     }
 
     .toggle {
-        margin-right: -5rem;
+        margin-right: 2rem;
+    }
+
+    .content .textBox h3 {
+        font-size: 1rem;
+        margin-left: 0;
+    }
+
+    .content .textBox h2 {
+        font-size: 1.5rem;
     }
 
     .content .textBox p {
-        width: 500px;
+        width: 300px;
+    }
+
+    .imgBox img {
+        width: 300px;
+        margin-top: 3rem;
+        margin-left: -10rem;
     }
 
     .social-media {
-        margin-top: -4rem;
+        margin-left: 3rem;
     }
 
     .thumb {
         position: absolute;
         flex-direction: column;
 
-        left: 30rem;
-        top: 50rem;
+        left: 15rem;
+        top: 37rem;
     }
 
     .thumb li {
