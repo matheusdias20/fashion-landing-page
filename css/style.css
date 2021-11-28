@@ -377,7 +377,7 @@ main {
     }
 
     .toggle {
-        margin-right: 2rem;
+        margin-right: 1rem;
     }
 
     .content .textBox h3 {
@@ -386,21 +386,27 @@ main {
     }
 
     .content .textBox h2 {
-        font-size: 1.5rem;
+        font-size: 1.9rem;
     }
 
     .content .textBox p {
         width: 300px;
     }
 
+    .content .textBox .btn {
+        padding: 1rem 2rem;
+        font-size: 1rem;
+    }
+
     .imgBox img {
         width: 300px;
         margin-top: 3rem;
-        margin-left: -10rem;
+        margin-left: -7rem;
     }
 
     .social-media {
         margin-left: 3rem;
+        margin-top: -3rem;
     }
 
     .thumb {
